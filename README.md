@@ -12,4 +12,4 @@ Juan Sebastián Rodríguez Páez es alumno de Métodos Computacionales y este re
 
 Alejandro Puerta
 
-Alejandro Castellanos
+Alejandro Castellanos - acastellanos98

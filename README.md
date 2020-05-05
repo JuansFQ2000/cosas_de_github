@@ -7,3 +7,7 @@ Juan Sebastián Rodríguez Páez es alumno de Métodos Computacionales y este re
 [enlace a Google](https://www.google.com/)
 
 ![Black Hole](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/1200px-Black_hole_-_Messier_87_crop_max_res.jpg)
+
+# En colaboración con:
+
+Alejandro Puerta
